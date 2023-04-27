@@ -1,0 +1,21 @@
+.wrapper {
+    padding: 50px;
+    max-width: 90vw;
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+.author {
+    text-align: center;
+    font-size: 20px;
+}
+.list {
+    margin-top: 50px;
+}
+.item {
+    padding: 10px 0px;
+}
+.itemAuthor {
+    margin-bottom: 10px;
+}
